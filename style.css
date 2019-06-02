@@ -1,5 +1,5 @@
 @media (min-width:420px){
-  #section1 {height: 150vw !important; max-width: 640px !important; max-height: 1024px; margin: 0 auto;}
+  #section1 {height: 150vw !important; max-width: 480px !important; max-height: 800px; margin: 0 auto;}
 }
 
 html{ padding: 0px !important; margin-top: 0px !important;}
