@@ -1,0 +1,8 @@
+body {font-family: 'Nanum Myeongjo', serif;
+ color: #585861; font-weight: 100; line-height: 1.6; background-color: #f0f2f5;}
+.section {text-align: center;}
+#section4 {text-align: left; margin-left: 40px; max-width: 400px; margin: 0 auto;}
+h2 {font-weight: 100;}
+h3 {font-weight: 100; line-height: 0.6;}
+h4 {font-weight: bold; line}
+a {color: #3a4961; text-decoration: none;}
