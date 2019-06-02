@@ -18,3 +18,5 @@ h4 {font-weight: bold; margin-bottom: 0px;}
 a {color: #3a4961; text-decoration: none;}
 
 h1, h2, h3, h4, h5 {margin-block-start: 0.1em; margin-block-end: 0.1em;}
+
+#daumRoughmapContainer1559503593232 .wrap_map {pointer-events: none;}
