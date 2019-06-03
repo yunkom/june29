@@ -3,7 +3,7 @@
 }
 
 html{ padding: 0px !important; margin-top: 0px !important;}
-body{width: 100vw; max-width: 980px; margin: 0 auto; font-family: 'Noto Serif KR', serif; 
+body{width: 100vw; max-width: 980px; margin: 0 auto; font-family: 'Nanum Myeongjo', serif;
   color: #3c3c42; font-weight: 100; line-height: 1.6; background-color: #ffffff; margin-top: 0px; padding: 0px !important;}
 .section {text-align: center;}
 #section1 {background-image: url("main.png"); background-position: bottom; background-size: cover; margin-top: 0px; height: 720px; padding-top: 88px;}
