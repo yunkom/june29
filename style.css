@@ -2,13 +2,13 @@
  body {padding-top: 0px !important;}}
 
 body {
-	max-width: 940px; 
+	max-width: 840px; 
 	padding: 40px; 
 	margin: 0 auto; 
 	font-family: 'Nanum Myeongjo', serif;
 	color: #3c3c42;
 	font-weight: 100;
-	line-height: 1.7;
+	line-height: 1.8;
 	font-size: 16px;
 }
 
@@ -23,7 +23,7 @@ img {width: 100%; margin-top: 24px;}
 .wedd-img {width: 46%; margin: 1% !important;}
 #daumRoughmapContainer1559503593232 .wrap_map {pointer-events: none;}
 
-/* The animation code */
+/* The ani권ation code */
 @keyframes example {
   0%   {margin-top:80px; opacity: 0;}
   20%  {margin-top:64px; opacity: 0;}
