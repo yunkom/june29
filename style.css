@@ -38,12 +38,12 @@ img {width: 100%; margin-top: 24px;}
 }
 
 /* The element to apply the animation to */
-img {
+zimg {
   animation-name: example;
   animation-duration: 2.5s;
 }
 
-p {
+zp {
   animation-name: p;
   animation-duration: 2.5s;
 }
