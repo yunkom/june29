@@ -30,20 +30,10 @@ img {width: 100%; margin-top: 24px;}
   100%  {margin-top:24px; opacity: 1;}
 
 }
-@keyframes p {
-  0%   {opacity: 0;}
-  20%  {opacity: 0;}
-  100%  {opacity: 1;}
 
-}
 
 /* The element to apply the animation to */
-zimg {
+.front {
   animation-name: example;
-  animation-duration: 2.5s;
-}
-
-zp {
-  animation-name: p;
   animation-duration: 2.5s;
 }
