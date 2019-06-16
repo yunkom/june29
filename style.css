@@ -20,7 +20,7 @@ a {color: #1957C2; text-decoration: none;}
 img {width: 100%; margin-top: 24px;}
 
 .section {margin-top: 64px;}
-.wedd-img {width: 46%; margin: 16px;}
+.wedd-img {width: 46%; margin: 1% !important;}
 #daumRoughmapContainer1559503593232 .wrap_map {pointer-events: none;}
 
 /* The animation code */
